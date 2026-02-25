@@ -5,7 +5,8 @@
 ![Stars](https://img.shields.io/github/stars/SaifoSaeed/Tarneeb)
 
 Tarneeb is a popular Middle Eastern trick-taking card game played in teams. This repository contains a digital implementation of the game, designed to bring the traditional experience to your screen.
-
+* This repo is completely vibe-coded and I did this in a fun 30-minutes.
+* Feel free to take this code and adjust bot behaviour (which definitely can be improved) or other UI elements.
 ---
 
 ## 📖 Overview
